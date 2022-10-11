@@ -15,7 +15,7 @@
       "inputs" : [
         {
           "kind" : "file",
-          "name" : "/home/danelle-corbita/Projects/Sorts/InsertionSort/intSort.swift"
+          "name" : "/home/danelle-corbita/Projects/Sorts/InsertionSort/Old/intSort.swift"
         },
         {
           "kind" : "file",
@@ -26,7 +26,7 @@
       "moduleName" : "Simple",
       "moduleOutputPath" : "/home/danelle-corbita/Projects/Sorts/InsertionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Simple.swiftmodule",
       "objects" : [
-        "/home/danelle-corbita/Projects/Sorts/InsertionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/intSort.swift.o",
+        "/home/danelle-corbita/Projects/Sorts/InsertionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Old/intSort.swift.o",
         "/home/danelle-corbita/Projects/Sorts/InsertionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o"
       ],
       "otherArguments" : [
@@ -51,7 +51,7 @@
       "outputs" : [
         {
           "kind" : "file",
-          "name" : "/home/danelle-corbita/Projects/Sorts/InsertionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/intSort.swift.o"
+          "name" : "/home/danelle-corbita/Projects/Sorts/InsertionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Old/intSort.swift.o"
         },
         {
           "kind" : "file",
@@ -63,7 +63,7 @@
         }
       ],
       "sources" : [
-        "/home/danelle-corbita/Projects/Sorts/InsertionSort/intSort.swift",
+        "/home/danelle-corbita/Projects/Sorts/InsertionSort/Old/intSort.swift",
         "/home/danelle-corbita/Projects/Sorts/InsertionSort/main.swift"
       ],
       "tempsPath" : "/home/danelle-corbita/Projects/Sorts/InsertionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build",

@@ -1,7 +1,7 @@
 version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
 options: "bb4a94a12ff7ec22b2e1f1ade65daf121ef7715d8d60c7fdd4f1dc513cb662d4"
-build_start_time: [1665152072, 678455829]
-build_end_time: [1665152072, 728047847]
+build_start_time: [1665408096, 484539985]
+build_end_time: [1665408096, 539394855]
 inputs:
-  "/home/danelle-corbita/Projects/Sorts/InsertionSort/intSort.swift": !private [1665151855, 869201660]
-  "/home/danelle-corbita/Projects/Sorts/InsertionSort/main.swift": !private [1665152068, 171121120]
+  "/home/danelle-corbita/Projects/Sorts/InsertionSort/Old/intSort.swift": !dirty [1665176473, 725589275]
+  "/home/danelle-corbita/Projects/Sorts/InsertionSort/main.swift": !dirty [1665176473, 737588882]
